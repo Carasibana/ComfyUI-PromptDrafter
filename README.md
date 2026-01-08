@@ -2,7 +2,7 @@
 
 A custom node pack for ComfyUI that provides an intuitive prompt drafting, saving, loading and management system with wildcard support.
 
-![Version](https://img.shields.io/badge/version-1.0.1-blue)
+![Version](https://img.shields.io/badge/version-1.0.2-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Overview
@@ -30,11 +30,21 @@ cd ComfyUI/custom_nodes
 git clone https://github.com/Carasibana/ComfyUI-PromptDrafter.git
 ```
 
+To update to the latest version:
+```bash
+cd ComfyUI/custom_nodes/ComfyUI-PromptDrafter
+git pull
+```
+
+**Note:** Your saved prompts and wildcards in the `saved/` folder are preserved during updates.
+
 ### Method 2: Manual Download
 
 1. Download the repository as a ZIP file
 2. Extract to `ComfyUI/custom_nodes/ComfyUI-PromptDrafter`
 3. Restart ComfyUI
+
+**Note:** When updating manually, your existing `saved/` folder will be preserved if you don't overwrite it during extraction.
 
 ## Nodes
 
@@ -248,6 +258,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Changelog
+
+### v1.0.2
+- Added `.gitignore` to preserve user-saved prompts and wildcards during updates
+- User data in `saved/` folder is now protected from being deleted on git pull or manual updates
 
 ### v1.0.1
 - Bugfix to hide coloured outlines around text fileds when node collapsed

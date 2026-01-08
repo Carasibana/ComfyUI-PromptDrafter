@@ -43,6 +43,9 @@ Thumbs.db
 # Local configuration (keep config.json as it's the default)
 # config.local.json
 
+# User-saved prompts and wildcards (preserve user data on updates)
+saved/
+
 # Temporary files
 *.tmp
 *.temp

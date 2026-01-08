@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-promptdrafter"
-version = "1.0.1"
+version = "1.0.2"
 description = "A custom node pack for ComfyUI that provides an intuitive prompt drafting, saving, loading and management system with wildcard support."
 readme = "README.md"
 license = {text = "MIT"}
