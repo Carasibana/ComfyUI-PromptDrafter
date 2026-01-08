@@ -27,7 +27,7 @@ A custom node pack for ComfyUI that provides an intuitive prompt drafting, savin
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/yourusername/ComfyUI-PromptDrafter.git
+git clone https://github.com/Carasibana/ComfyUI-PromptDrafter.git
 ```
 
 ### Method 2: Manual Download
