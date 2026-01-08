@@ -23,9 +23,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/ComfyUI-PromptDrafter"
-Repository = "https://github.com/yourusername/ComfyUI-PromptDrafter"
-Issues = "https://github.com/yourusername/ComfyUI-PromptDrafter/issues"
+Homepage = "https://github.com/Carasibana/ComfyUI-PromptDrafter"
+Repository = "https://github.com/Carasibana/ComfyUI-PromptDrafter"
+Issues = "https://github.com/Carasibana/ComfyUI-PromptDrafter/issues"
 
 [build-system]
 requires = ["setuptools>=61.0"]
