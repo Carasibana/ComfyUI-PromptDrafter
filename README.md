@@ -2,7 +2,7 @@
 
 A custom node pack for ComfyUI that provides an intuitive prompt drafting, saving, loading and management system with wildcard support.
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Version](https://img.shields.io/badge/version-1.0.1-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Overview
@@ -248,6 +248,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Changelog
+
+### v1.0.1
+- Bugfix to hide coloured outlines around text fileds when node collapsed
 
 ### v1.0.0
 - Initial release

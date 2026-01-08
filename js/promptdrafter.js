@@ -372,6 +372,9 @@ app.registerExtension({
                 onDrawForeground.apply(this, arguments);
             }
             
+            // Don't draw outlines if node is collapsed
+            if (this.collapsed) return;
+            
             // Draw colored borders around text widgets that have borderColor set
             for (const widget of this.widgets || []) {
                 if (widget.borderColor) {
@@ -531,6 +534,9 @@ app.registerExtension({
                 onDrawForeground.apply(this, arguments);
             }
             
+            // Don't draw outlines if node is collapsed
+            if (this.collapsed) return;
+            
             for (const widget of this.widgets || []) {
                 if (widget.borderColor) {
                     let widgetY = widget.last_y;
@@ -685,6 +691,9 @@ app.registerExtension({
             if (onDrawForeground) {
                 onDrawForeground.apply(this, arguments);
             }
+            
+            // Don't draw outlines if node is collapsed
+            if (this.collapsed) return;
             
             for (const widget of this.widgets || []) {
                 if (widget.borderColor) {
