@@ -1,7 +1,7 @@
 [project]
 name = "comfyui-promptdrafter"
 version = "1.0.0"
-description = "A ComfyUI custom node pack for prompt drafting and management with wildcard support"
+description = "A custom node pack for ComfyUI that provides an intuitive prompt drafting, saving, loading and management system with wildcard support."
 readme = "README.md"
 license = {text = "MIT"}
 requires-python = ">=3.8"
@@ -34,3 +34,7 @@ build-backend = "setuptools.build_meta"
 [tool.setuptools.packages.find]
 where = ["."]
 include = ["nodes*", "utils*"]
+
+[tool.comfy]
+PublisherId = "carasibana"
+DisplayName = "ComfyUI-PromptDrafter"
