@@ -1,0 +1,11 @@
+{
+    "save_paths": {
+        "dual_prompts": "saved/dual_prompts",
+        "single_prompts": "saved/single_prompts",
+        "wildcards": "saved/wildcards"
+    },
+    "settings": {
+        "auto_save": false,
+        "default_wildcard_mode": "random"
+    }
+}

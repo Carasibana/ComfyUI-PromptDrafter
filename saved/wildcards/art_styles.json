@@ -1,0 +1,16 @@
+{
+  "name": "art_styles",
+  "raw_text": "oil painting style | watercolor style | digital art | concept art | anime style | realistic | impressionist | art nouveau",
+  "values": [
+    "oil painting style",
+    "watercolor style",
+    "digital art",
+    "concept art",
+    "anime style",
+    "realistic",
+    "impressionist",
+    "art nouveau"
+  ],
+  "created": "2026-01-08T10:00:00Z",
+  "type": "wildcard"
+}

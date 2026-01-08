@@ -1,0 +1,16 @@
+{
+  "name": "hair_colors",
+  "raw_text": "blonde hair\nbrunette hair\nred hair\nblack hair\nsilver hair\nblue hair\npink hair\ngreen hair",
+  "values": [
+    "blonde hair",
+    "brunette hair",
+    "red hair",
+    "black hair",
+    "silver hair",
+    "blue hair",
+    "pink hair",
+    "green hair"
+  ],
+  "created": "2026-01-08T10:00:00Z",
+  "type": "wildcard"
+}

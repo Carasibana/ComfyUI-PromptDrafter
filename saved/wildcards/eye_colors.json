@@ -1,0 +1,16 @@
+{
+  "name": "eye_colors",
+  "raw_text": "blue eyes, green eyes, brown eyes, amber eyes, heterochromia, red eyes, purple eyes, golden eyes",
+  "values": [
+    "blue eyes",
+    "green eyes",
+    "brown eyes",
+    "amber eyes",
+    "heterochromia",
+    "red eyes",
+    "purple eyes",
+    "golden eyes"
+  ],
+  "created": "2026-01-08T10:00:00Z",
+  "type": "wildcard"
+}

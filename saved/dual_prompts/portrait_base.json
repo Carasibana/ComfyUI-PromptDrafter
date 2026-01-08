@@ -1,0 +1,7 @@
+{
+  "name": "portrait_base",
+  "positive": "masterpiece, best quality, highly detailed, {wildcard_subject}, {wildcard_lighting}, professional photography",
+  "negative": "blurry, low quality, deformed, bad anatomy, watermark, signature",
+  "created": "2026-01-08T10:00:00Z",
+  "type": "dual_prompt"
+}

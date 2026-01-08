@@ -1,0 +1,3 @@
+# ComfyUI-PromptDrafter Requirements
+# This node pack has no external dependencies beyond ComfyUI itself.
+# All required modules (aiohttp, etc.) are provided by ComfyUI.

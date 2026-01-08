@@ -1,0 +1,7 @@
+{
+  "name": "anime_style",
+  "positive": "anime style, vibrant colors, {wildcard_character}, {wildcard_background}, detailed eyes, sharp lines",
+  "negative": "realistic, photorealistic, 3d render, blurry, low quality, bad hands",
+  "created": "2026-01-08T10:00:00Z",
+  "type": "dual_prompt"
+}

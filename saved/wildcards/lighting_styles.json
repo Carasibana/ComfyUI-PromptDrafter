@@ -1,0 +1,16 @@
+{
+  "name": "lighting_styles",
+  "raw_text": "soft natural lighting, golden hour lighting, dramatic side lighting, studio lighting, neon lighting, cinematic lighting, backlit, rim lighting",
+  "values": [
+    "soft natural lighting",
+    "golden hour lighting",
+    "dramatic side lighting",
+    "studio lighting",
+    "neon lighting",
+    "cinematic lighting",
+    "backlit",
+    "rim lighting"
+  ],
+  "created": "2026-01-08T10:00:00Z",
+  "type": "wildcard"
+}
